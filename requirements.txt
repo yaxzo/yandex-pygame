@@ -1,0 +1,6 @@
+# for download all modules:
+# 1. open cmd in directory with project
+# 2. print in cmd - pip3 install -r requirements.txt
+# 3. use this ^^
+
+pygame==2.1.2
